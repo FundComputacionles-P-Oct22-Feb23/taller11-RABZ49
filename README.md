@@ -32,3 +32,7 @@ Al procedimiento se lo debe invocar desde la función principal
 	* El área del rectángulo es igual a base x altura
 
 ***
+
+Oliver Saraguro
+
+Roberto Bustamante 
